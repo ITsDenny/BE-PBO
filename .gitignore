@@ -1,2 +1,4 @@
 # File kredensial untuk database
-app/config/config.py
+../config/config.__pycache__
+.venv
+../__pycache__
