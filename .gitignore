@@ -1,5 +1,6 @@
 # File kredensial untuk database
-../config/config.__pycache__
+../config/config
+.__pycache__
 .venv
 app/__pycache__
 .env
